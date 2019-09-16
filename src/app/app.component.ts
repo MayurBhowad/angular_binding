@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularBinding';
+  courseName = 'Angualar 7';
+
+  clicked(){
+
+  }
+
+
+
 }
